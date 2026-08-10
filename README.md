@@ -9,7 +9,7 @@
 ### O que o JavaScript pode fazer? | Palavras-chave JavaScript
 
 <a href="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b">
-  <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b" />
+  <img width="100%" alt="palavras-chave-javascript" src="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b" />
 </a>
 
 &nbsp;
@@ -22,7 +22,7 @@
 
 ### Palavras-chave JavaScript
 ### Palavras-chave em JavaScript são usadas para definir ações a serem realizadas.
-### As palavras-chave e criam variáveis:letconst
+### As palavras-chave criam variáveis: let const
 
 &nbsp;
 
