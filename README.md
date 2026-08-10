@@ -1,5 +1,4 @@
 ### HTML JavaScript | Palavras-chave JavaScript
-<img width="1920" height="1032" alt="javascript-sintaxe-palavras-chave" src="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b" />
 
 <a href="https://github.com/user-attachments/assets/b253cd82-443e-45e6-9bfa-1e1f5a26a03b">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/b253cd82-443e-45e6-9bfa-1e1f5a26a03b" />
