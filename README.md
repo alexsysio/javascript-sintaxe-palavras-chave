@@ -76,7 +76,7 @@
 &nbsp;
 
 ### Palavras marcadas com* foram adicionadas ao JavaScript desde depois de 2015.
-### Você pode ler mais sobre as versões mais recentes do JavaScript no <a href="https://www.w3schools.com/js/js_versions.asp">JS News 2025-2015.</a>
+### Você pode ler mais sobre as versões mais recentes do JavaScript no <a href="https://www.w3schools.com/js/js_versions.asp" target="_blank" rel="noopener noreferrer">JS News 2025-2015.</a>
 
 &nbsp;
 
