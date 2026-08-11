@@ -53,79 +53,100 @@ Instruções JavaScript frequentemente começam com uma palavra-chave para ident
 
 ### JavaScript Palavras Reservadas
 ### No JavaScript, você não pode usar essas palavras reservadas como variáveis, rótulos ou Nomes das funções:
-### abstract &nbsp;	arguments &nbsp;	async * &nbsp; await *
-### boolean &nbsp;	break &nbsp;	byte &nbsp;	case
-### catch &nbsp;	char &nbsp;	class * &nbsp;	const *
-### continue &nbsp;	debugger &nbsp;	default &nbsp;	delete
-### do &nbsp;	double &nbsp;	else &nbsp;	enum *
-### eval &nbsp;	export * &nbsp;	extends * &nbsp;	false
-### final &nbsp;	finally &nbsp;	float &nbsp;	for
-### function &nbsp;	goto &nbsp;	if &nbsp;	implements
-### function &nbsp;	import * &nbsp;	in &nbsp;	instanceof
-### int &nbsp;	interface &nbsp;	let * &nbsp;	long
-### native &nbsp;	new &nbsp;	null &nbsp;	package
-### private &nbsp;	protected &nbsp;	public * &nbsp;	return
-### short &nbsp;	static * &nbsp;	super * &nbsp;	switch
-### synchronized &nbsp;	this &nbsp;	throw &nbsp;	throws
-### transient &nbsp;	true &nbsp;	try &nbsp;	typeof
-### using * &nbsp;	var &nbsp;	void &nbsp;	volatile
-### while &nbsp;	with &nbsp;	yield *
-### Palavras marcadas com* foram adicionadas ao JavaScript desde depois de 2015.
-### Você pode ler mais sobre as versões mais recentes do JavaScript no <a href="https://www.w3schools.com/js/js_versions.asp">JS News 2025-2015.</a>
+| | | | |
+|---|---|---|---|
+| abstract | arguments | async * | await * |
+| boolean | break | byte | case |
+| catch | char | class * | const * |
+| continue | debugger | default | delete |
+| do | double | else | enum * |
+| eval | export * | extends * | false |
+| final | finally | float | for |
+| function | goto | if | implements |
+| function | import * | in | instanceof |
+| int | interface | let * | long |
+| native | new | null | package |
+| private | protected | public * | return |
+| short | static * | super * | switch |
+| synchronized | this | throw | throws |
+| transient | true | try | typeof |
+| using * | var | void | volatile |
+| while | with | yield * |  |
+
+> Palavras marcadas com* foram adicionadas ao JavaScript desde depois de 2015.
+> Você pode ler mais sobre as versões mais recentes do JavaScript no <a href="https://www.w3schools.com/js/js_versions.asp">JS News 2025-2015.</a>
 
 &nbsp;
 
 ### Palavras Reservadas removidas
 ### As seguintes palavras reservadas foram removidas do padrão ECMAScript 5/6:
-### abstract &nbsp;	boolean &nbsp;	byte &nbsp;	char
-### double &nbsp;	final &nbsp;	float &nbsp;	goto
-### int &nbsp;	long &nbsp;	native &nbsp;	short
-### synchronized &nbsp;	throws &nbsp;	transient &nbsp; volatile
+| | | | |
+|---|---|---|---|
+| abstract | boolean | byte | char |
+| double | final | float | goto |
+| int | long | native | short |
+| synchronized | throws | transient | volatile |
 
 &nbsp;
 
 ### Objetos, Propriedades e Métodos JavaScript
 ### Você também deve evitar usar o nome de Objetos, propriedades e métodos embutidos do JavaScript:
-### Array &nbsp;	Date &nbsp;	eval &nbsp;	function
-### hasOwnProperty &nbsp;	Infinity &nbsp;	isFinite &nbsp;	isNaN
-### isPrototypeOf &nbsp;	length &nbsp;	Math &nbsp;	NaN
-### name &nbsp;	Number &nbsp;	Object &nbsp;	prototype
-### String &nbsp;	toString &nbsp;	undefined &nbsp;	valueOf
+| | | | |
+|---|---|---|---|
+| Array | Date | eval | function |
+| hasOwnProperty | Infinity | isFinite | isNaN |
+| isPrototypeOf | length | Math | NaN |
+| name | Number | Object | prototype |
+| String | toString | undefined | valueOf |
 
 &nbsp;
 
 ### Palavras Reservadas em Java
 ### JavaScript é frequentemente usado junto com Java. Você deve evitar usar alguns objetos Java e propriedades como identificadores JavaScript:
-### getClass &nbsp;	java &nbsp;	JavaArray &nbsp;	javaClass
-### JavaObject &nbsp;	JavaPackage	
+| | | | |
+|---|---|---|---|
+| getClass | java | JavaArray | javaClass |
+| JavaObject | JavaPackage |  |  |
 
 &nbsp;
 
 ### Outras Palavras Reservadas
 ### JavaScript pode ser usado como programação linguagem em muitas aplicações.
 ### Você também deve evitar usar o nome HTML e Objetos e propriedades Janela:
-### alert	all	anchor	anchors
-### area	assign	blur	button
-### checkbox	clearInterval	clearTimeout	clientInformation
-### close	closed	confirm	constructor
-### crypto	decodeURI	decodeURIComponent	defaultStatus
-### document	element	elements	embed
-### embeds	encodeURI	encodeURIComponent	escape
-### event	fileUpload	focus	form
-### forms	frame	innerHeight	innerWidth
-### layer	layers	link	location
-### mimeTypes	navigate	navigator	frames
-### frameRate	hidden	history	image
-### images	offscreenBuffering	open	opener
-### option	outerHeight	outerWidth	packages
-### pageXOffset	pageYOffset	parent	parseFloat
-### parseInt	password	pkcs11	plugin
-### prompt	propertyIsEnum	radio	reset
-screenX	screenY	scroll	secure
-select	self	setInterval	setTimeout
-status	submit	taint	text
-textarea	top	unescape	untaint
-window			
+| | | | |
+|---|---|---|---|
+| alert | all | anchor | anchors |
+| area | assign | blur | button |
+| checkbox | clearInterval | clearTimeout | clientInformation |
+| close | closed | confirm | constructor |
+| crypto | decodeURI | decodeURIComponent | defaultStatus |
+| document | element | elements | embed |
+| embeds | encodeURI | encodeURIComponent | escape |
+| event | fileUpload | focus | form |
+| forms | frame | innerHeight | innerWidth |
+| layer | layers | link | location |
+| mimeTypes | navigate | navigator | frames |
+| frameRate | hidden | history | image |
+| images | offscreenBuffering | open | opener |
+| option | outerHeight | outerWidth | packages |
+| pageXOffset | pageYOffset | parent | parseFloat |
+| parseInt | password | pkcs11 | plugin |
+| prompt | propertyIsEnum | radio | reset |
+| screenX | screenY | scroll | secure |
+| select | self | setInterval | setTimeout |
+| status | submit | taint | text |
+| textarea | top | unescape | untaint |
+| window |  |  |  |		
 
+&nbsp;
 
+### Manipuladores de Eventos HTML
+### Além disso, você deve evitar usar o nome de todos os manipuladores de eventos HTML.
+| | | | |
+|---|---|---|---|
+| onblur | onclick | onerror | onfocus |
+| onkeydown | onkeypress | onkeyup | onmouseover |
+| onload | onmouseup | onmousedown | onsubmit |
+
+&nbsp;
 
