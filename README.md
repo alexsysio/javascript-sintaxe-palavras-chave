@@ -1,19 +1,3 @@
-### HTML JavaScript | Palavras-chave JavaScript
-
-<a href="https://github.com/user-attachments/assets/b253cd82-443e-45e6-9bfa-1e1f5a26a03b">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/b253cd82-443e-45e6-9bfa-1e1f5a26a03b" />
-</a>
-
-&nbsp;
-
-### O que o JavaScript pode fazer? | Palavras-chave JavaScript
-
-<a href="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b">
-  <img width="100%" alt="palavras-chave-javascript" src="https://github.com/user-attachments/assets/9af4b076-7117-4fe5-badb-34dabc82c05b" />
-</a>
-
-&nbsp;
-
 ### Sintaxe JavaScript
 ### Regras de Sintaxe
 ### Sintaxe são as regras pelas quais os programas devem ser construídos:
@@ -48,8 +32,6 @@ Instruções JavaScript frequentemente começam com uma palavra-chave para ident
 | `try` | Implementa o tratamento de erros em um bloco de instruções |
 
 > Palavras-chave em JavaScript são palavras reservadas. Palavras reservadas não podem ser usadas como nomes para variáveis.
-
-&nbsp;
 
 ### JavaScript Palavras Reservadas
 ### No JavaScript, você não pode usar essas palavras reservadas como variáveis, rótulos ou Nomes das funções:
@@ -150,3 +132,17 @@ Instruções JavaScript frequentemente começam com uma palavra-chave para ident
 
 &nbsp;
 
+
+<a href="https://github.com/user-attachments/assets/52b6d7fe-5e4a-4673-b0e3-74fe36518042">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/52b6d7fe-5e4a-4673-b0e3-74fe36518042"/>
+</a>
+
+&nbsp;
+
+### Resultado
+
+<a href="https://github.com/user-attachments/assets/fba9f78a-d35c-4f11-bd70-32a28efd9556" >
+  <img width="100%" alt="sintaxe" src="https://github.com/user-attachments/assets/fba9f78a-d35c-4f11-bd70-32a28efd9556" />
+</a>
+
+&nbsp;
